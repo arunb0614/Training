@@ -1,2 +1,4 @@
 Second file
 1. After git commit move to main branch -> How it behaves wiothout push
+2. Added this line from  first_branch
+3. Don't change the same line from file and make conflict
