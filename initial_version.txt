@@ -4,3 +4,4 @@ Third commit for without add
 To check merge status
 Commit drop
 Commit squash
+Add file 

@@ -6,3 +6,4 @@ Second file
 5. Do upto 5 commits and reset 2 to 3 commits
 6. Same file edit and check with commit
 7. Do git reset with HARD, SOFT and MIXED
+8. Use git commit --amend to change messag eand add file
