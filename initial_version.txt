@@ -5,4 +5,3 @@ To check merge status
 Commit drop
 Commit squash
 Add file 
-Commit revert
