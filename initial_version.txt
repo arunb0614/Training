@@ -1,3 +1,4 @@
 First commmit in Training Repository
 Second commit for stage check
 Third commit for without add 
+To check merge status
