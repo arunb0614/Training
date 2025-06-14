@@ -1,1 +1,2 @@
 Second file
+1. After git commit move to main branch -> How it behaves wiothout push
