@@ -2,3 +2,6 @@ Second file
 1. After git commit move to main branch -> How it behaves wiothout push
 2. Added this line from  first_branch
 3. Don't change the same line from file and make conflict
+4. Merge conflict create and resolve use pull and git merge
+5. Do upto 5 commits and reset 2 to 3 commits
+6. Same file edit and check with commit
